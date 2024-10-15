@@ -1,14 +1,14 @@
 [
     {
-        "Title": "Buy milk",
+        "Title": "Finish",
         "Completed": true,
-        "CreatedAt": "2024-10-14T16:42:44.128443-04:00",
-        "CompletedAt": "2024-10-14T16:42:44.128444-04:00"
+        "CreatedAt": "2024-10-15T10:32:11.532147-04:00",
+        "CompletedAt": "2024-10-15T10:32:27.931188-04:00"
     },
     {
-        "Title": "Buy bread",
-        "Completed": false,
-        "CreatedAt": "2024-10-14T16:42:44.128443-04:00",
-        "CompletedAt": null
+        "Title": "finish ticket",
+        "Completed": true,
+        "CreatedAt": "2024-10-15T10:32:50.95946-04:00",
+        "CompletedAt": "2024-10-15T10:33:01.588858-04:00"
     }
 ]
